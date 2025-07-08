@@ -46,7 +46,7 @@ const AIRecruitHomepage = () => {
             onClick={() => navigate("/login")}
             className="px-5 py-2 bg-gray-900 rounded-md border border-gray-800 font-medium text-gray-300 hover:bg-gray-800 hover:border-cyan-900 transition"
           >
-            FARIN
+            Login
           </button>
           <button
             onClick={() => navigate("/signup")}
